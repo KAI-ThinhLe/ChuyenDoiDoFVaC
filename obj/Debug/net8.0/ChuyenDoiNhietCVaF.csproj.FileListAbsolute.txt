@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\bin\Debug\net8.0\ChuyenDoiNhietCVaF.exe
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\bin\Debug\net8.0\ChuyenDoiNhietCVaF.deps.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\bin\Debug\net8.0\ChuyenDoiNhietCVaF.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\bin\Debug\net8.0\ChuyenDoiNhietCVaF.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\bin\Debug\net8.0\ChuyenDoiNhietCVaF.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\refint\ChuyenDoiNhietCVaF.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ChuyenDoiNhietCVaF.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\ChuyenDoiNhietCVaF\obj\Debug\net8.0\ref\ChuyenDoiNhietCVaF.dll
